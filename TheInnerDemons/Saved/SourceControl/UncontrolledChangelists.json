@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/osama/Downloads/The Inner Demons/TheInnerDemons/TheInnerDemons/Content/Levels/MainMenuLevel.umap",
+				"C:/Users/osama/Downloads/The Inner Demons/TheInnerDemons/TheInnerDemons/Content/GameMode/VisualNovel_GameMode.uasset",
+				"C:/Users/osama/Downloads/The Inner Demons/TheInnerDemons/TheInnerDemons/Content/Widgets/MainMenuUI.uasset",
+				"C:/Users/osama/Downloads/The Inner Demons/TheInnerDemons/TheInnerDemons/Content/Levels/VisualNovelLevel.umap",
+				"C:/Users/osama/Downloads/The Inner Demons/TheInnerDemons/TheInnerDemons/Content/Music/Playing_Down_-_Osama_Hussein.uasset",
+				"C:/Users/osama/Downloads/The Inner Demons/TheInnerDemons/TheInnerDemons/Content/Art/The_Inner_Demons_bar_background.uasset",
+				"C:/Users/osama/Downloads/The Inner Demons/TheInnerDemons/TheInnerDemons/Content/Art/The_Inner_Demons_menu_background.uasset",
+				"C:/Users/osama/Downloads/The Inner Demons/TheInnerDemons/TheInnerDemons/Content/Art/The_Inner_Demons_button_art.uasset",
+				"C:/Users/osama/Downloads/The Inner Demons/TheInnerDemons/TheInnerDemons/Content/Widgets/CreditsMenuUI.uasset",
+				"C:/Users/osama/Downloads/The Inner Demons/TheInnerDemons/TheInnerDemons/Content/Sprites/Johnny_angry_sprite.uasset",
+				"C:/Users/osama/Downloads/The Inner Demons/TheInnerDemons/TheInnerDemons/Content/Sprites/Johnny_happy_sprite.uasset",
+				"C:/Users/osama/Downloads/The Inner Demons/TheInnerDemons/TheInnerDemons/Content/Sprites/Johnny_sad_sprite.uasset",
+				"C:/Users/osama/Downloads/The Inner Demons/TheInnerDemons/TheInnerDemons/Content/Sprites/Johnny_shocked_sprite.uasset"
+			]
+		}
+	]
+}
