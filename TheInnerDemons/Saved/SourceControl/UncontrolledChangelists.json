@@ -11,7 +11,6 @@
 				"C:/Users/osama/Downloads/The Inner Demons/TheInnerDemons/TheInnerDemons/Content/Levels/VisualNovelLevel.umap",
 				"C:/Users/osama/Downloads/The Inner Demons/TheInnerDemons/TheInnerDemons/Content/Music/Playing_Down_-_Osama_Hussein.uasset",
 				"C:/Users/osama/Downloads/The Inner Demons/TheInnerDemons/TheInnerDemons/Content/Art/The_Inner_Demons_bar_background.uasset",
-				"C:/Users/osama/Downloads/The Inner Demons/TheInnerDemons/TheInnerDemons/Content/Art/The_Inner_Demons_menu_background.uasset",
 				"C:/Users/osama/Downloads/The Inner Demons/TheInnerDemons/TheInnerDemons/Content/Art/The_Inner_Demons_button_art.uasset",
 				"C:/Users/osama/Downloads/The Inner Demons/TheInnerDemons/TheInnerDemons/Content/Widgets/CreditsMenuUI.uasset",
 				"C:/Users/osama/Downloads/The Inner Demons/TheInnerDemons/TheInnerDemons/Content/Sprites/Johnny_angry_sprite.uasset",
@@ -54,7 +53,14 @@
 				"C:/Users/osama/Downloads/The Inner Demons/TheInnerDemons/TheInnerDemons/Content/Sprites/Anna_sad.uasset",
 				"C:/Users/osama/Downloads/The Inner Demons/TheInnerDemons/TheInnerDemons/Content/Sprites/Anna_neutral.uasset",
 				"C:/Users/osama/Downloads/The Inner Demons/TheInnerDemons/TheInnerDemons/Content/Sprites/Anna_Normal.uasset",
-				"C:/Users/osama/Downloads/The Inner Demons/TheInnerDemons/TheInnerDemons/Content/Art/The_Inner_Demons_Main_Menu_Background.uasset"
+				"C:/Users/osama/Downloads/The Inner Demons/TheInnerDemons/TheInnerDemons/Content/Art/The_Inner_Demons_Main_Menu_Background.uasset",
+				"C:/Users/osama/Downloads/The Inner Demons/TheInnerDemons/TheInnerDemons/Content/SaveGame/SaveGameBlueprint.uasset",
+				"C:/Users/osama/Downloads/The Inner Demons/TheInnerDemons/TheInnerDemons/Content/Sprites/Nicky_Neutral.uasset",
+				"C:/Users/osama/Downloads/The Inner Demons/TheInnerDemons/TheInnerDemons/Content/Sprites/Nicky_Normal.uasset",
+				"C:/Users/osama/Downloads/The Inner Demons/TheInnerDemons/TheInnerDemons/Content/Sprites/Nicky_Sad.uasset",
+				"C:/Users/osama/Downloads/The Inner Demons/TheInnerDemons/TheInnerDemons/Content/Sprites/Nicky_Mad.uasset",
+				"C:/Users/osama/Downloads/The Inner Demons/TheInnerDemons/TheInnerDemons/Content/Sprites/Johnny_neutral_sprite.uasset",
+				"C:/Users/osama/Downloads/The Inner Demons/TheInnerDemons/TheInnerDemons/Content/Art/The_Inner_Demons_menu_background.uasset"
 			]
 		}
 	]
